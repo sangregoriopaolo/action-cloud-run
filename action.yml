@@ -17,7 +17,7 @@ inputs:
   region:
     description: 'GCP region'
     required: true
-  service_key:
+  servicekey:
     description: 'GCP service key with storage and run permissions'
     required: true
 runs:
